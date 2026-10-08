@@ -1,6 +1,6 @@
 # 👋 Hola, soy Anyulibeth Carrillo
 
-### Desarrolladora Full Stack | Interés en Front-End y diseño web
+### Full Stack Developer| Interés en Front-End y diseño web
 
 Soy desarrolladora web con formación en JavaScript, React, Python, Flask y PostgreSQL. Durante mi formación he trabajado tanto en Front-End como en Back-End, desarrollando aplicaciones web completas.
 
